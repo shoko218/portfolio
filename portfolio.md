@@ -33,3 +33,10 @@ webエンジニアを目指して勉強を始めてまだ半年足らずです�
 JavaScriptで制作したシューティングゲームです。<br>
 キーボードのテンキーでの操作となります。<br>
 [詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/numeric_keypad_shooting/blob/master/README.md)
+
+## 今やっていること
+- 先述した成果物の開発経験を踏まえて、実際に運用することを考慮した少し大きめの規模のwebサービスの構築をしています。<br>
+一から設計していることや学校が再開したこともあり、まだ実際に公開できるような形にはなっておりません。<br>
+[READMEのリンク](https://github.com/shoko218/request_bbs/blob/master/README.md)だけ貼らせていただきます。
+- 上記のプロジェクトは技術以外の部分も大幅に関わっているため、技術を主に磨くプロジェクトとして[TechTrainさん](https://techbowl.co.jp/techtrain)で公開されているMISSIONに挑戦しています。<br>
+こちらは自分の制作物ではないためここでのご紹介のみとさせていただきます。
