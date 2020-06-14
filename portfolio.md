@@ -29,7 +29,7 @@ webエンジニアを目指して勉強を始めてまだ半年足らずです�
 制作当時は学びたてだったため至らない点も多くございますが、よろしければ是非ご覧ください。<br>
 ※成果物としてご覧いただけるように公開しているもののため、アンケートのデータはサンプルです。<br>
 [詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/questionnaire_bbs/blob/master/README.md)
-### ゲーム「[テンキーシューティング](https://questionnaire.uh-oh.jp/)」
+### ゲーム「[テンキーシューティング](https://shooting.jeez.jp/)」
 JavaScriptで制作したシューティングゲームです。<br>
 キーボードのテンキーでの操作となります。<br>
 [詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/numeric_keypad_shooting/blob/master/README.md)
