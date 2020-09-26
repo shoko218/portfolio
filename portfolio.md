@@ -30,11 +30,6 @@ webエンジニアを目指して勉強を始めてまだ半年足らずです�
 制作当時は学びたてだったため至らない点も多くございますが、よろしければ是非ご覧ください。<br>
 ※成果物としてご覧いただけるように公開しているもののため、アンケートのデータはサンプルです。<br>
 [詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/questionnaire_bbs/blob/master/README.md)
-### ゲーム「[テンキーシューティング](https://shooting.jeez.jp/)」
-(PCのみ対応、GoogleChromeで動作確認済み、Safariではゲームプレイに支障のない程度に挙動に支障あり)<br>
-JavaScriptで制作したシューティングゲームです。<br>
-キーボードのテンキーでの操作となります。<br>
-[詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/numeric_keypad_shooting/blob/master/README.md)
 
 ## 今やっていること
 - 先述した成果物の開発経験を踏まえて、実際に運用することを考慮した少し大きめの規模のwebサービスの構築をしています。<br>
