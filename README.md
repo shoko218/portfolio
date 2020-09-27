@@ -36,6 +36,11 @@ webエンジニアを目指して勉強を始めてまだ半年と少しです�
 ※成果物としてご覧いただけるように公開しているもののため、搭載している機能は全てデモです。<br>
 ※悪用防止のためにメールはMailtrapでダミーメール送信をしています。そのため、メール使用を前提としている機能がございますが、テストできませんのでご了承ください。<br>
 [詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/tanp_mission/blob/master/README.md)<br>
+### ゲーム「[テンキーシューティング](http://seg218.sakura.ne.jp/numeric_keypad_shooting/)」
+(PCのみ対応、GoogleChromeで動作確認済み、Safariではゲームプレイに支障のない程度に挙動に支障あり)<br>
+JavaScriptで制作したシューティングゲームです。<br>
+キーボードのテンキーでの操作となります。<br>
+[詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/numeric_keypad_shooting/blob/master/README.md)
 
 ## 今やっていること
 - 先述した成果物の開発経験を踏まえて、実際に運用することを考慮した少し大きめの規模のwebサービスの構築をしています。<br>
