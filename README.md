@@ -30,13 +30,6 @@ webエンジニアを目指して勉強を始めてまだ半年と少しです�
 制作当時は学びたてだったため至らない点も多くございますが、よろしければ是非ご覧ください。<br>
 ※成果物としてご覧いただけるように公開しているもののため、アンケートのデータはサンプルです。<br>
 [詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/questionnaire_bbs/blob/master/README.md)<br>
-### プレゼント専門ECサイト「[Pleased](https://tanp-mission.tk/)」
-技術を磨くために[TechTrainさん](https://techbowl.co.jp/techtrain)で公開されている課題に挑戦した際に制作したECサイトです。<br>
-シンプルではありますが、基本の購入フローのほか、イベントリマインド機能やオリジナルでギフトカタログを作成できる機能など様々な機能を搭載しています。<br>
-※会員登録が前提となるサイトですので、閲覧用にゲストアカウントを用意しております。<br>
-メールアドレス:guest[@]example.com([@]は@で入力してください) パスワード:guestguest でログインしてください。<br>
-※成果物としてご覧いただけるように公開しているもののため、搭載している機能は全てデモです。<br>
-※悪用防止のためにメールはMailtrapでダミーメール送信をしています。そのため、メール使用を前提としている機能がございますが、テストできませんのでご了承ください。<br>
 [詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/tanp_mission/blob/master/README.md)<br>
 ### ゲーム「[テンキーシューティング](http://seg218.sakura.ne.jp/numeric_keypad_shooting/)」
 (PCのみ対応、GoogleChromeで動作確認済み、Safariではゲームプレイに支障のない程度に挙動に支障あり)<br>
