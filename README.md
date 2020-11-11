@@ -23,14 +23,6 @@ webエンジニアを目指して勉強を始めてまだ半年と少しです�
 - 基本情報技術者試験(2019年春)
 
 ## 成果物
-### アンケート掲示板「[QAQAQ](https://questionnaire.uh-oh.jp/)」
-(PC/スマホ対応、GoogleChrome、Safariで動作確認済み)<br>
-一通りの基本を抑えたあと、初めて作ったwebサービスです。<br>
-ユーザがアンケートを作成し、他のユーザが回答するという単純な作りです。<br>
-制作当時は学びたてだったため至らない点も多くございますが、よろしければ是非ご覧ください。<br>
-※成果物としてご覧いただけるように公開しているもののため、アンケートのデータはサンプルです。<br>
-[詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/questionnaire_bbs/blob/master/README.md)<br>
-[詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/tanp_mission/blob/master/README.md)<br>
 ### ゲーム「[テンキーシューティング](http://seg218.sakura.ne.jp/numeric_keypad_shooting/)」
 (PCのみ対応、GoogleChromeで動作確認済み、Safariではゲームプレイに支障のない程度に挙動に支障あり)<br>
 JavaScriptで制作したシューティングゲームです。<br>
@@ -43,14 +35,6 @@ JavaScriptで制作したシューティングゲームです。<br>
 メールアドレス:guest[@]example.com([@]は@で入力してください) パスワード:guestguest でログインしてください。<br>
 ※成果物としてご覧いただけるように公開しているもののため、搭載している機能は全てデモです。<br>
 ※悪用防止のためにメールはMailtrapでダミーメール送信をしています。そのため、メール使用を前提としている機能がございますが、テストできませんのでご了承ください。<br>
-<h1>プレゼント専門ECサイト「<a href="https://tanp-mission.tk/">Pleased</a>」</h1>
-<h2>概要</h2>
-誰かにプレゼントをする際に便利なECサイトです。贈り物をするにあたって役に立つ機能をたくさん兼ね備えています。<br>
-このサービスは<a href="https://techbowl.co.jp/techtrain">TechTrainさん</a>で公開されている課題に挑戦した際に制作したものです。<br>
-そのため一部は自分のアイデアではなく、課題の中で参考にするように指定されたECサイト様にある機能をそのまま実装した部分もございますのでご了承ください。<br>
-(PC/スマホ対応、GoogleChrome、Safariで動作確認済み PCでGoogleChromeを用いての閲覧を推奨)<br>
-※会員登録が前提となるサイトですので、閲覧用にゲストアカウントを用意しております。<br>
-メールアドレス:guest[@]example.com([@]は@で入力してください) パスワード:guestguest でログインしてください。<br>
 ## 今やっていること
 - 先述した成果物の開発経験を踏まえて、実際に運用することを考慮した少し大きめの規模のwebサービスの構築をしています。<br>
 まだまだ経験や知識が足りないため時間がかかっており、実際に公開できるような形にはなっておりません。<br>
