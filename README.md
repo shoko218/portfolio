@@ -37,5 +37,3 @@ JavaScriptで制作したシューティングゲームです。<br>
 [詳細はこちら(githubの README.mdに遷移します)](https://github.com/shoko218/tanp_mission/blob/master/README.md)
 ## 今やっていること
 - 所属しているエンジニアコミュニティで利用するためのSlack appをチーム開発しています。<br>
-- 
-
